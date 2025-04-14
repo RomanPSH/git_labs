@@ -1,2 +1,2 @@
 Pshepinda Roman IP-21-2 
-GitHub lab
+GitHub lab 8 (Конфліктне редагування з main)
